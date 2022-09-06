@@ -1,2 +1,2 @@
 #!/bin/bash
-declare -i TRUEKNOWLEDGE=128
+echo $((128 + $TRUEKNOWLEDGE))
